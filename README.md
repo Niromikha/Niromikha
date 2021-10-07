@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Niromikha
-- 👀 I’m interested in Medicine and Technology
+- 👀 I’m interested in TECHNOLOGY
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on healthtech
-- 📫 How to reach me here at GitHub
+- 📫 reach me here at GitHub
 
 <!---
 Niromikha/Niromikha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
