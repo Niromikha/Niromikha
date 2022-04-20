@@ -1,3 +1,6 @@
+# About me, Niromikha
+
+
 - 👋 Hi, I’m @Niromikha
 - 👀 I’m interested in TECHNOLOGY
 - 🌱 I’m currently learning Computer Science
